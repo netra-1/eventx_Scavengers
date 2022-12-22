@@ -1,4 +1,5 @@
 
+import 'package:eventxandroid/screens/auth/forgot_password.dart';
 import 'package:eventxandroid/screens/auth/login.dart';
 import 'package:eventxandroid/screens/auth/register.dart';
 import 'package:eventxandroid/screens/auth/reset_password.dart';
