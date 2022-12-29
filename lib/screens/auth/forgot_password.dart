@@ -24,7 +24,7 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
       height: 50,
       width: double.infinity,
       child: ElevatedButton(
-        // key: const ValueKey('btnLogin'),
+        key: const ValueKey('btnReset'),
         onPressed: () {
           setState(() {
             boxShadow = false;
@@ -72,6 +72,7 @@ class _ForgotPasswordScreenState extends State<ForgotPasswordScreen> {
               ),
             ),
       child: TextFormField(
+        key: const ValueKey('txtEmail'),
         controller: _emailController,
         obscureText: false,
         style: GoogleFonts.poppins(

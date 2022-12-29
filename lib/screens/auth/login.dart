@@ -74,6 +74,7 @@ class _LoginScreenState extends State<LoginScreen> {
               ),
             ),
       child: TextFormField(
+        key: const ValueKey("txtemail"),
         controller: _emailController,
         obscureText: false,
         style: GoogleFonts.poppins(
@@ -151,6 +152,7 @@ class _LoginScreenState extends State<LoginScreen> {
               ),
             ),
       child: TextFormField(
+        key: const ValueKey("txtPassword"),
         controller: _passwordController,
         obscureText: true,
         style: GoogleFonts.poppins(
