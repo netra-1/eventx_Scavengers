@@ -1,8 +1,9 @@
-import 'package:eventx/models/venue/additional_service.dart';
-import 'package:eventx/models/venue/booked_dates.dart';
-import 'package:eventx/models/venue/capacity.dart';
-import 'package:eventx/models/venue/price_model.dart';
-import 'package:eventx/models/venue/venue_image.dart';
+
+import 'package:eventxandroid/models/venue/additional_service.dart';
+import 'package:eventxandroid/models/venue/booked_dates.dart';
+import 'package:eventxandroid/models/venue/capacity.dart';
+import 'package:eventxandroid/models/venue/price_model.dart';
+import 'package:eventxandroid/models/venue/venue_image.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'filtered_venue_model.g.dart';
 

@@ -1,4 +1,4 @@
-import 'package:eventx/models/theme/theme_model.dart';
+import 'package:eventxandroid/models/theme/theme_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'load_theme_model_response.g.dart';
 

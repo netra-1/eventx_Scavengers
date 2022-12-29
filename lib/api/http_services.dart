@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:eventx/utils/url.dart';
+import 'package:eventxandroid/utils/url.dart';
 
 class HttpServices {
   static final HttpServices _instance = HttpServices.internal();

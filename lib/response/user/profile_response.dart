@@ -1,5 +1,5 @@
 
-import 'package:eventx/models/user/user_account.dart';
+import 'package:eventxandroid/models/user/user_account.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'profile_response.g.dart';
 

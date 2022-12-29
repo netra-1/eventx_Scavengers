@@ -1,6 +1,6 @@
 import 'dart:io';
-import 'package:eventx/models/cake/cake_model.dart';
-import 'package:eventx/repository/event_booking.dart';
+import 'package:eventxandroid/models/cake/cake_model.dart';
+import 'package:eventxandroid/repository/event_booking.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:modal_bottom_sheet/modal_bottom_sheet.dart';

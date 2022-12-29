@@ -1,4 +1,4 @@
-import 'package:eventx/models/cake/cake_model.dart';
+import 'package:eventxandroid/models/cake/cake_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'load_cake_model_response.g.dart';
 

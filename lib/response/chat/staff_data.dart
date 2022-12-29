@@ -1,4 +1,5 @@
-import 'package:eventx/response/chat/staff_model.dart';
+
+import 'package:eventxandroid/response/chat/staff_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'staff_data.g.dart';
 

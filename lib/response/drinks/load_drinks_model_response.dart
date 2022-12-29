@@ -1,4 +1,4 @@
-import 'package:eventx/models/drinks/drinks_model.dart';
+import 'package:eventxandroid/models/drinks/drinks_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'load_drinks_model_response.g.dart';
 

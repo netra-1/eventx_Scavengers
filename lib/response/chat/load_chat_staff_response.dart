@@ -1,5 +1,5 @@
-import 'package:eventx/models/chat/conversation_model.dart';
-import 'package:eventx/response/chat/staff_data.dart';
+
+import 'package:eventxandroid/response/chat/staff_data.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'load_chat_staff_response.g.dart';
 

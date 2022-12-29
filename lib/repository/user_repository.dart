@@ -1,7 +1,9 @@
-import 'package:eventx/api/user_api.dart';
-import 'package:eventx/models/user/profile.dart';
-import 'package:eventx/models/user/user.dart';
-import 'package:eventx/models/user/user_account.dart';
+
+
+import 'package:eventxandroid/api/user_api.dart';
+import 'package:eventxandroid/models/user/profile.dart';
+import 'package:eventxandroid/models/user/user.dart';
+import 'package:eventxandroid/models/user/user_account.dart';
 
 class UserRepository {
   Future<bool> registerUser(User customer) async {

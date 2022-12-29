@@ -1,15 +1,16 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:eventx/api/http_services.dart';
-import 'package:eventx/models/user/profile.dart';
-import 'package:eventx/models/user/user.dart';
-import 'package:eventx/models/user/user_account.dart';
-import 'package:eventx/response/user/login_response.dart';
-import 'package:eventx/response/user/profile_response.dart';
-import 'package:eventx/utils/url.dart';
+import 'package:eventxandroid/api/http_services.dart';
+import 'package:eventxandroid/models/user/profile.dart';
+import 'package:eventxandroid/models/user/user.dart';
+import 'package:eventxandroid/models/user/user_account.dart';
+import 'package:eventxandroid/response/user/login_response.dart';
+import 'package:eventxandroid/response/user/profile_response.dart';
+import 'package:eventxandroid/utils/url.dart';
 import 'package:http_parser/http_parser.dart';
 import 'package:flutter/material.dart';
+
 
 class UserAPI {
   //Register API

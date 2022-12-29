@@ -1,11 +1,11 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:eventx/api/http_services.dart';
-import 'package:eventx/models/past_events/past_events.dart';
-import 'package:eventx/models/payment/payment_details.dart';
-import 'package:eventx/response/event/load_past_event_model_response.dart';
-import 'package:eventx/utils/url.dart';
+import 'package:eventxandroid/api/http_services.dart';
+import 'package:eventxandroid/models/past_events/past_events.dart';
+import 'package:eventxandroid/models/payment/payment_details.dart';
+import 'package:eventxandroid/response/event/load_past_event_model_response.dart';
+import 'package:eventxandroid/utils/url.dart';
 import 'package:flutter/material.dart';
 import 'package:http_parser/http_parser.dart';
 

@@ -1,4 +1,5 @@
-import 'package:eventx/models/user/user.dart';
+
+import 'package:eventxandroid/models/user/user.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'login.g.dart';
 

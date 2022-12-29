@@ -1,12 +1,12 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:eventx/api/http_services.dart';
-import 'package:eventx/models/chat/conversation_model.dart';
-import 'package:eventx/response/chat/load_chat_model_response.dart';
-import 'package:eventx/response/chat/load_chat_staff_response.dart';
-import 'package:eventx/response/chat/staff_model.dart';
-import 'package:eventx/utils/url.dart';
+import 'package:eventxandroid/api/http_services.dart';
+import 'package:eventxandroid/models/chat/conversation_model.dart';
+import 'package:eventxandroid/response/chat/load_chat_model_response.dart';
+import 'package:eventxandroid/response/chat/load_chat_staff_response.dart';
+import 'package:eventxandroid/response/chat/staff_model.dart';
+import 'package:eventxandroid/utils/url.dart';
 import 'package:flutter/material.dart';
 
 class ChatAPI{

@@ -1,5 +1,5 @@
-import 'package:eventx/models/past_events/past_events.dart';
-import 'package:eventx/repository/payment_repository.dart';
+import 'package:eventxandroid/models/past_events/past_events.dart';
+import 'package:eventxandroid/repository/payment_repository.dart';
 import 'package:flutter/material.dart';
 
 class PastBookedEventsScreen extends StatefulWidget {

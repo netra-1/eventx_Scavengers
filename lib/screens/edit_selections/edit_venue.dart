@@ -1,5 +1,5 @@
-import 'package:eventx/models/venue/filtered_venue_model.dart';
-import 'package:eventx/repository/event_booking.dart';
+import 'package:eventxandroid/models/venue/filtered_venue_model.dart';
+import 'package:eventxandroid/repository/event_booking.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';

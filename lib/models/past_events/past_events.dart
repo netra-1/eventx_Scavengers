@@ -1,12 +1,13 @@
-import 'package:eventx/models/past_events/custom_cake.dart';
-import 'package:eventx/models/past_events/past_event_venue.dart';
-import 'package:eventx/models/past_events/past_events_decorations.dart';
-import 'package:eventx/models/past_events/staff_details.dart';
-import 'package:eventx/models/payment/cake_details.dart';
-import 'package:eventx/models/payment/items_details.dart';
-import 'package:eventx/models/payment/transaction_details.dart';
-import 'package:eventx/models/theme/theme_model.dart';
-import 'package:eventx/models/user/user.dart';
+
+import 'package:eventxandroid/models/past_events/custom_cake.dart';
+import 'package:eventxandroid/models/past_events/past_event_venue.dart';
+import 'package:eventxandroid/models/past_events/past_events_decorations.dart';
+import 'package:eventxandroid/models/past_events/staff_details.dart';
+import 'package:eventxandroid/models/payment/cake_details.dart';
+import 'package:eventxandroid/models/payment/items_details.dart';
+import 'package:eventxandroid/models/payment/transaction_details.dart';
+import 'package:eventxandroid/models/theme/theme_model.dart';
+import 'package:eventxandroid/models/user/user.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'past_events.g.dart';
 

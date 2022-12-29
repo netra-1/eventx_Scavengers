@@ -1,7 +1,7 @@
 
-import 'package:eventx/models/payment/cake_details.dart';
-import 'package:eventx/models/payment/items_details.dart';
-import 'package:eventx/models/payment/transaction_details.dart';
+import 'package:eventxandroid/models/payment/cake_details.dart';
+import 'package:eventxandroid/models/payment/items_details.dart';
+import 'package:eventxandroid/models/payment/transaction_details.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'payment_details.g.dart';
 

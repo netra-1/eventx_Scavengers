@@ -1,4 +1,5 @@
-import 'package:eventx/models/user/address.dart';
+
+import 'package:eventxandroid/models/user/address.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'staff_profile.g.dart';
 

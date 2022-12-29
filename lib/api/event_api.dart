@@ -1,18 +1,18 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:eventx/api/http_services.dart';
-import 'package:eventx/models/cake/cake_model.dart';
-import 'package:eventx/models/decoration/decoration_model.dart';
-import 'package:eventx/models/drinks/drinks_model.dart';
-import 'package:eventx/models/theme/theme_model.dart';
-import 'package:eventx/models/venue/filtered_venue_model.dart';
-import 'package:eventx/response/cake/load_cake_model_response.dart';
-import 'package:eventx/response/decoration/load_decoration_model_response.dart';
-import 'package:eventx/response/drinks/load_drinks_model_response.dart';
-import 'package:eventx/response/theme/load_theme_model_response.dart';
-import 'package:eventx/response/venue/load_filtered_venue_response.dart';
-import 'package:eventx/utils/url.dart';
+import 'package:eventxandroid/api/http_services.dart';
+import 'package:eventxandroid/models/cake/cake_model.dart';
+import 'package:eventxandroid/models/decoration/decoration_model.dart';
+import 'package:eventxandroid/models/drinks/drinks_model.dart';
+import 'package:eventxandroid/models/theme/theme_model.dart';
+import 'package:eventxandroid/models/venue/filtered_venue_model.dart';
+import 'package:eventxandroid/response/cake/load_cake_model_response.dart';
+import 'package:eventxandroid/response/decoration/load_decoration_model_response.dart';
+import 'package:eventxandroid/response/drinks/load_drinks_model_response.dart';
+import 'package:eventxandroid/response/theme/load_theme_model_response.dart';
+import 'package:eventxandroid/response/venue/load_filtered_venue_response.dart';
+import 'package:eventxandroid/utils/url.dart';
 import 'package:flutter/material.dart';
 
 class EventAPI {

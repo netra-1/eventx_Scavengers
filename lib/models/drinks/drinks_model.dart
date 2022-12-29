@@ -1,4 +1,5 @@
-import 'package:eventx/models/venue/venue_image.dart';
+
+import 'package:eventxandroid/models/venue/venue_image.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'drinks_model.g.dart';
 

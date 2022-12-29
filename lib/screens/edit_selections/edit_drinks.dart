@@ -1,5 +1,5 @@
-import 'package:eventx/models/drinks/drinks_model.dart';
-import 'package:eventx/repository/event_booking.dart';
+import 'package:eventxandroid/models/drinks/drinks_model.dart';
+import 'package:eventxandroid/repository/event_booking.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

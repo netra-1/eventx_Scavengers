@@ -1,7 +1,7 @@
-import 'package:eventx/screens/event_booking/choose_event.dart';
-import 'package:eventx/screens/home_page.dart';
-import 'package:eventx/screens/profile_screen.dart';
-import 'package:eventx/screens/staff_chat.dart';
+import 'package:eventxandroid/screens/event_booking/choose_event.dart';
+import 'package:eventxandroid/screens/home_page.dart';
+import 'package:eventxandroid/screens/profile_screen.dart';
+import 'package:eventxandroid/screens/staff_chat.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 

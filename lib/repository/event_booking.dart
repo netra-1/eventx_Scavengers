@@ -1,9 +1,11 @@
-import 'package:eventx/api/event_api.dart';
-import 'package:eventx/models/cake/cake_model.dart';
-import 'package:eventx/models/decoration/decoration_model.dart';
-import 'package:eventx/models/drinks/drinks_model.dart';
-import 'package:eventx/models/theme/theme_model.dart';
-import 'package:eventx/models/venue/filtered_venue_model.dart';
+
+
+import 'package:eventxandroid/api/event_api.dart';
+import 'package:eventxandroid/models/cake/cake_model.dart';
+import 'package:eventxandroid/models/decoration/decoration_model.dart';
+import 'package:eventxandroid/models/drinks/drinks_model.dart';
+import 'package:eventxandroid/models/theme/theme_model.dart';
+import 'package:eventxandroid/models/venue/filtered_venue_model.dart';
 
 class EventRepository {
   // Future<List<EventModel?>> loadEventType() {

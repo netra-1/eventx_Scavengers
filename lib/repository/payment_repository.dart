@@ -1,6 +1,7 @@
-import 'package:eventx/api/payment_api.dart';
-import 'package:eventx/models/past_events/past_events.dart';
-import 'package:eventx/models/payment/payment_details.dart';
+
+import 'package:eventxandroid/api/payment_api.dart';
+import 'package:eventxandroid/models/past_events/past_events.dart';
+import 'package:eventxandroid/models/payment/payment_details.dart';
 
 class PaymentRepository {
   Future<bool> postTransaction(PaymentDetails paymentDetails) async {

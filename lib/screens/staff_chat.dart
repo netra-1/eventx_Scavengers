@@ -1,7 +1,7 @@
-import 'package:eventx/models/chat/chat_model.dart';
-import 'package:eventx/repository/chat_repository.dart';
-import 'package:eventx/response/chat/staff_model.dart';
-import 'package:eventx/screens/event_booking/eventx_chatpage.dart';
+import 'package:eventxandroid/models/chat/chat_model.dart';
+import 'package:eventxandroid/repository/chat_repository.dart';
+import 'package:eventxandroid/response/chat/staff_model.dart';
+import 'package:eventxandroid/screens/event_booking/eventx_chatpage.dart';
 import 'package:flutter/material.dart';
 
 class StaffChatPage extends StatefulWidget {

@@ -1,5 +1,5 @@
-import 'package:eventx/models/user/user_account.dart';
-import 'package:eventx/repository/user_repository.dart';
+import 'package:eventxandroid/models/user/user_account.dart';
+import 'package:eventxandroid/repository/user_repository.dart';
 import 'package:flutter/material.dart';
 
 class ProfileScreen extends StatefulWidget {

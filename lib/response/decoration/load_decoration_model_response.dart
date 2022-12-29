@@ -1,4 +1,4 @@
-import 'package:eventx/models/decoration/decoration_model.dart';
+import 'package:eventxandroid/models/decoration/decoration_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'load_decoration_model_response.g.dart';
 

@@ -1,6 +1,6 @@
-import 'package:eventx/models/announcement/announcement_model.dart';
-import 'package:eventx/repository/announcement_repository.dart';
-import 'package:eventx/screens/bottom_nav_bar.dart';
+import 'package:eventxandroid/models/announcement/announcement_model.dart';
+import 'package:eventxandroid/repository/announcement_repository.dart';
+import 'package:eventxandroid/screens/bottom_nav_bar.dart';
 import 'package:flutter/material.dart';
 // import 'package:hospital_management_system/models/highest_booked_department.dart';
 

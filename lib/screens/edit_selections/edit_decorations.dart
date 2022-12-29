@@ -1,5 +1,5 @@
-import 'package:eventx/models/decoration/decoration_model.dart';
-import 'package:eventx/repository/event_booking.dart';
+import 'package:eventxandroid/models/decoration/decoration_model.dart';
+import 'package:eventxandroid/repository/event_booking.dart';
 import 'package:flutter/material.dart';
 
 class EditDecorationsScreen extends StatefulWidget {

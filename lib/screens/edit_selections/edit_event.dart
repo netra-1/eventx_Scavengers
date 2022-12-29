@@ -1,5 +1,5 @@
 
-import 'package:eventx/models/event/event_model.dart';
+import 'package:eventxandroid/models/event/event_model.dart';
 import 'package:flutter/material.dart';
 
 class EditEventScreen extends StatefulWidget {

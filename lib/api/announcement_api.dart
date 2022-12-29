@@ -1,9 +1,9 @@
 import 'dart:io';
 
 import 'package:dio/dio.dart';
-import 'package:eventx/models/announcement/announcement_model.dart';
-import 'package:eventx/response/announcement/load_announcement_response.dart';
-import 'package:eventx/utils/url.dart';
+import 'package:eventxandroid/models/announcement/announcement_model.dart';
+import 'package:eventxandroid/response/announcement/load_announcement_response.dart';
+import 'package:eventxandroid/utils/url.dart';
 import 'package:flutter/material.dart';
 
 import 'http_services.dart';

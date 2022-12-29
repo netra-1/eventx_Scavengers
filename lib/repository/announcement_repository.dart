@@ -1,5 +1,6 @@
-import 'package:eventx/api/announcement_api.dart';
-import 'package:eventx/models/announcement/announcement_model.dart';
+
+import 'package:eventxandroid/api/announcement_api.dart';
+import 'package:eventxandroid/models/announcement/announcement_model.dart';
 
 class AnnouncementRepository {
   Future<List<AnnouncementModel?>> loadAnnouncement() async {

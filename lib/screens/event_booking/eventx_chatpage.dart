@@ -2,13 +2,13 @@
 // import 'package:chatapp/Model/ChatModel.dart';
 // import 'package:chatapp/Model/MessageModel.dart';
 // import 'package:emoji_picker/emoji_picker.dart';
-import 'package:eventx/models/chat/chat_model.dart';
-import 'package:eventx/models/chat/conversation_model.dart';
-import 'package:eventx/models/chat/message_model.dart';
-import 'package:eventx/repository/chat_repository.dart';
-import 'package:eventx/screens/widgets/own_message_card.dart';
-import 'package:eventx/screens/widgets/reply_card.dart';
-import 'package:eventx/utils/url.dart';
+import 'package:eventxandroid/models/chat/chat_model.dart';
+import 'package:eventxandroid/models/chat/conversation_model.dart';
+import 'package:eventxandroid/models/chat/message_model.dart';
+import 'package:eventxandroid/repository/chat_repository.dart';
+import 'package:eventxandroid/screens/widgets/own_message_card.dart';
+import 'package:eventxandroid/screens/widgets/reply_card.dart';
+import 'package:eventxandroid/utils/url.dart';
 import 'package:flutter/material.dart';
 import 'package:socket_io_client/socket_io_client.dart' as IO;
 

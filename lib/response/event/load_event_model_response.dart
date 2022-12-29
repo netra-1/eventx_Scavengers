@@ -1,4 +1,4 @@
-import 'package:eventx/models/event/event_model.dart';
+import 'package:eventxandroid/models/event/event_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'load_event_model_response.g.dart';
 

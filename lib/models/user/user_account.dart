@@ -1,5 +1,6 @@
-import 'package:eventx/models/user/profile.dart';
-import 'package:eventx/models/venue/venue_image.dart';
+
+import 'package:eventxandroid/models/user/profile.dart';
+import 'package:eventxandroid/models/venue/venue_image.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'user_account.g.dart';
 

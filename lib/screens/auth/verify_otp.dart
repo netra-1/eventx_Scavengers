@@ -1,5 +1,5 @@
-import 'package:eventx/repository/user_repository.dart';
-import 'package:eventx/utils/display_message.dart';
+import 'package:eventxandroid/repository/user_repository.dart';
+import 'package:eventxandroid/utils/display_message.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

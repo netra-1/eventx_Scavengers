@@ -1,6 +1,7 @@
-import 'package:eventx/api/chat_api.dart';
-import 'package:eventx/models/chat/conversation_model.dart';
-import 'package:eventx/response/chat/staff_model.dart';
+
+import 'package:eventxandroid/api/chat_api.dart';
+import 'package:eventxandroid/models/chat/conversation_model.dart';
+import 'package:eventxandroid/response/chat/staff_model.dart';
 
 class ChatRepository {
   Future<bool> sendChat(String targetId, String msg) async {

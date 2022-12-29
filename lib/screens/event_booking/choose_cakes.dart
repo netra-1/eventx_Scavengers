@@ -1,7 +1,7 @@
 import 'dart:io';
-import 'package:eventx/models/cake/cake_model.dart';
-import 'package:eventx/repository/event_booking.dart';
-import 'package:eventx/utils/url.dart';
+import 'package:eventxandroid/models/cake/cake_model.dart';
+import 'package:eventxandroid/repository/event_booking.dart';
+import 'package:eventxandroid/utils/url.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_storage/get_storage.dart';

@@ -1,4 +1,4 @@
-import 'package:eventx/models/venue/filtered_venue_model.dart';
+import 'package:eventxandroid/models/venue/filtered_venue_model.dart';
 import 'package:json_annotation/json_annotation.dart';
 part 'load_filtered_venue_response.g.dart';
 

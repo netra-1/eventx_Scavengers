@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:eventx/models/user/profile.dart';
-import 'package:eventx/models/user/user_account.dart';
-import 'package:eventx/repository/user_repository.dart';
-import 'package:eventx/screens/bottom_nav_bar.dart';
+import 'package:eventxandroid/models/user/profile.dart';
+import 'package:eventxandroid/models/user/user_account.dart';
+import 'package:eventxandroid/repository/user_repository.dart';
+import 'package:eventxandroid/screens/bottom_nav_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:image_picker/image_picker.dart';
